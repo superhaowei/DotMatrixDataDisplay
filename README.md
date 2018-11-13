@@ -14,4 +14,4 @@
 
 转换输出：
 
-![demo](DotMatrixDataDisplay/demo.png)
+![demo](https://github.com/superhaowei/DotMatrixDataDisplay/blob/master/demo.png)
