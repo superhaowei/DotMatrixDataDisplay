@@ -15,3 +15,5 @@
 转换输出：
 
 ![demo](https://github.com/superhaowei/DotMatrixDataDisplay/blob/master/demo.png)
+
+![img](https://github.com/superhaowei/DotMatrixDataDisplay/blob/master/2018_11_26_26x22.bmp)

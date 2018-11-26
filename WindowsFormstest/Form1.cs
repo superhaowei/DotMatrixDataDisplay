@@ -156,7 +156,7 @@ namespace WindowsFormstest
                         }
                         else
                         {
-                            bmp.SetPixel(i, j, Color.White);
+                            bmp.SetPixel(i, j, Color.Transparent);
                         }
                     }
                 }
