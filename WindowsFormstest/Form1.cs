@@ -21,6 +21,7 @@ namespace WindowsFormstest
         private static byte[] strToToHexByte(string hexString)
         {
             hexString = hexString.Replace(" ", "");
+            hexString = hexString.Replace("\t", "");
             hexString = hexString.Replace("\r", "");
             hexString = hexString.Replace("\n", "");
             hexString = hexString.Replace("0x", "");
